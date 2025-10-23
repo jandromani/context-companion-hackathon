@@ -3,10 +3,9 @@
 **Category:** `Best Hybrid AI Application (Chrome Extension)`
 **APIs:** `Gemini 2.5 Flash-Lite`, `Summarizer`, `Translator`, `Writer`, `Rewriter`, `Proofreader`
 
-![Screenshot of Context Companion in action](https://i.imgur.com/Tuw3pZl.png)
-*(Replace this URL with an actual screenshot of your extension)*
 
----
+---<img width="456" height="401" alt="AA" src="https://github.com/user-attachments/assets/eea4d150-2ad6-4877-93c1-3dfe1e42a7f4" />
+
 
 ## 🎥 Demo Video (Under 3 Minutes)
 
