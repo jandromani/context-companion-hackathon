@@ -9,9 +9,7 @@
 
 ## 🎥 Demo Video (Under 3 Minutes)
 
-**[LINK TO YOUR YOUTUBE OR VIMEO VIDEO HERE!]**
-
-*(This is the most important part of your submission. Make sure it clearly shows the hybrid logic: a simple task running on-device (if possible) and the 'Bias' task running on the cloud.)*
+https://www.youtube.com/watch?v=256xj_8_PpY
 
 ---
 
