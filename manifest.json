@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "name": "Context Companion - Chrome AI Analyzer",
+  "version": "4.0.0",
+  "description": "Advanced content analysis using Chrome Built-in AI APIs + Gemini Hybrid. Built for Chrome AI Challenge 2025.",
+  
+  "permissions": [
+    "activeTab",
+    "scripting", 
+    "storage",
+    "sidePanel",
+    "tabs"
+  ],
+  
+  "host_permissions": [
+    "<all_urls>" 
+  ],
+  
+  "background": {
+    "service_worker": "background.js"
+  },
+  
+  "action": {
+    "default_title": "Open Context Companion",
+    "default_icon": {
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  
+  "icons": {
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'; connect-src 'self' https://cc-gemini-proxy.alejandrobgn.workers.dev;"
+  }
+}
